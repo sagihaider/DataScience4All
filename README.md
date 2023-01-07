@@ -2,10 +2,10 @@
 
 # Table of Contents
 1. [Lab 1: Introduction to Data Science](#introduction)
-2. [Lab 2: Being a Data Scientist](#DS)
+<!-- 2. [Lab 2: Being a Data Scientist](#DS)
 3. [Lab 3: Data Exploration: Exploratory Data Analysis](#DE)
 4. [Lab 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
-5. [Lab 5: Introduction to Machine Learning](#ML)
+5. [Lab 5: Introduction to Machine Learning](#ML) -->
 
 * [Help](#help)
 
@@ -23,7 +23,7 @@
 6. Once you complete the questions make sure your lab instructor has check and marked you. 
 
 
-
+<!-- 
 ## Lab 2: Being a Data Scientist <a name="DS"></a>
 
 ### Steps to follow:
@@ -56,7 +56,7 @@
 1. Go to [Week 5](https://github.com/sagihaider/DataScience4All/tree/main/Week5) folder
 2. Open [Exercise 5: Regression](https://github.com/sagihaider/DataScience4All/blob/main/Week5/Exercise_5_Regression.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered simple and multiple regression. Please re-run all the cells and feel free to play with it.
 3. Open [Exercise 5: Classification](https://github.com/sagihaider/CE880_2021/blob/main/Week5/Exercise_5_Classification.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered classification on the real data. Please re-run all the cells and feel free to play with it.
-
+ -->
 
 
 ***
