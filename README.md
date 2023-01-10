@@ -2,7 +2,8 @@
 
 # Table of Contents
 1. [Lab 1: Introduction to Data Science](#introduction)
-<!-- 2. [Lab 2: Being a Data Scientist](#DS)
+2. [Lab 2: Being a Data Scientist](#DS)
+<!--
 3. [Lab 3: Data Exploration: Exploratory Data Analysis](#DE)
 4. [Lab 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
 5. [Lab 5: Introduction to Machine Learning](#ML) -->
@@ -23,7 +24,7 @@
 6. Once you complete the questions make sure your lab instructor has check and marked you. 
 
 
-<!-- 
+
 ## Lab 2: Being a Data Scientist <a name="DS"></a>
 
 ### Steps to follow:
@@ -32,7 +33,8 @@
 2. Open [Exercise 1](https://github.com/sagihaider/DataScience4All/blob/main/Week2/Exercise_2_1_NumPy.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered NuPy and re-run all the cells and feel free to play with it.
 3. Open [Exercise 2](https://github.com/sagihaider/DataScience4All/blob/main/Week2/Exercise_2_2_Pandas.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered Pandas and re-run all the cells and feel free to play with it.
 
-
+<!-- 
+	
 ## Lab 3: Data Exploration: Exploratory Data Analysis<a name="DE"></a>
 
 ### Steps to follow:
